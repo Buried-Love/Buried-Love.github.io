@@ -35,7 +35,7 @@ body {
   background-color: transparent;
 }
 #web_bg {
-  background: #f5f6eb;
+  background: url("/img/bg.gif");
   height: 100%;
   width: 100%;
   -webkit-background-size: cover;
